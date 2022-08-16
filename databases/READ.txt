@@ -1,1 +1,1 @@
-Download and add the file "shape_predictor_68_face_landmarks.dat" to this folder (it was too large to upload to github)
+Download the file "shape_predictor_68_face_landmarks.dat", and add it to this folder (it was too large to upload to github)
